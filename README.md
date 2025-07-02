@@ -1,4 +1,4 @@
-Aplicaçãoá simples, e funciona, com recursos como:
+Aplicação simples, e funciona, com recursos como:
 - Cadastro de clientes
 - Cadastro de equipamentos
 - Registro de ordens de serviço (OS)
